@@ -1,0 +1,38 @@
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.deps.json
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csprojAssemblyReference.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csproj.CoreCompileInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfoInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfo.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csprojAssemblyReference.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csproj.CoreCompileInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfoInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfo.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.deps.json
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.deps.json
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\WindowsBase.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\System.Xaml.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\Accessibility.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\System.Security.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\WindowsBase.xml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\System.Xaml.xml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\Accessibility.xml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\System.Security.xml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csprojAssemblyReference.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csproj.CoreCompileInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfoInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.AssemblyInfo.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.csproj.CopyComplete
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.Domain\obj\Debug\netstandard2.0\HoWestPost.Domain.pdb

@@ -3,8 +3,10 @@
     public enum PackageType
     {
         //Use ints because enums (doubles ands floats won't compile)
-        Mini = 100,
-        Standard = 120,
-        Maxi = 150
+        Mini,
+        Standaard,
+        Maxi,
+        priority,
+        regular
     }
 }

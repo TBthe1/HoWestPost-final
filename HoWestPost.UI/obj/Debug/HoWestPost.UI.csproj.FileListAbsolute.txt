@@ -1,0 +1,84 @@
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe.config
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.UI.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\bin\Debug\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csprojAssemblyReference.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\MainWindow.g.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\App.g.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.lref
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\MainWindow.baml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.g.resources
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.Properties.Resources.resources
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.GenerateResource.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CoreCompileInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CopyComplete
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.exe
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost\HoWestPost.UI\obj\Debug\HoWestPost.UI.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.csprojAssemblyReference.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\MainWindow.g.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\App.g.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.lref
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.exe
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe.config
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\HoWestPost.UI.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\MainWindow.baml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.g.resources
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.Properties.Resources.resources
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.GenerateResource.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CoreCompileInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CopyComplete
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn\HoWestPost.UI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe.config
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\HoWestPost.UI.exe
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\HoWestPost.UI.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\HoWestPost.Domain.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\HoWestPost.Domain.pdb
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.csprojAssemblyReference.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\MainWindow.g.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\App.g.cs
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI_MarkupCompile.lref
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\MainWindow.baml
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.g.resources
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.Properties.Resources.resources
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.GenerateResource.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CoreCompileInputs.cache
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.csproj.CopyComplete
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.exe
+D:\HBO5\besturingssystemen\Eindopdracht\HoWestPost - Bjorn - old\HoWestPost.UI\obj\Debug\HoWestPost.UI.pdb

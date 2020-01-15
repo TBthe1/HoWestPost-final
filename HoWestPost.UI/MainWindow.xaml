@@ -8,27 +8,37 @@
         mc:Ignorable="d"
         Title="HoWest Post" Height="450" Width="800" Loaded="Window_Loaded">
     <Grid>
+        <!--Headers-->
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="62,42,0,0" TextWrapping="Wrap" Text="Pakket versturen" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontWeight="Bold" FontSize="14" />
         <TextBlock HorizontalAlignment="Center" Height="23" Margin="335,42,335,354" TextWrapping="Wrap" Text="In behandeling" VerticalAlignment="Center" Width="122" FontFamily="Arial" FontWeight="Bold" FontSize="14"  TextAlignment="Center" Background="{x:Null}"/>
         <TextBlock HorizontalAlignment="Center" Height="23" Margin="578,42,92,354" TextWrapping="Wrap" Text="Onderweg" VerticalAlignment="Center" Width="122" FontFamily="Arial" FontWeight="Bold" FontSize="14"  TextAlignment="Center" Background="{x:Null}"/>
+        
+        <!--Input-->
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="10,98,0,0" TextWrapping="Wrap" Text="Reistijd" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14"/>
         <CheckBox x:Name="chkPriority" Content="Prioriteit?" HorizontalAlignment="Left" Margin="101,150,0,0" VerticalAlignment="Top"/>
+        <xctk:ULongUpDown Value="30" Maximum="90" Minimum="30" AllowTextInput="False" x:Name="nNumberTraveltime" HorizontalAlignment="Left" Margin="101,98,0,0" VerticalAlignment="Top" Width="163" Height="23"/>
+        <Button x:Name="btnSend" Content="Versturen" HorizontalAlignment="Left" Margin="101,250,0,0" VerticalAlignment="Top" Width="75" Click="BtnSend_Click"/>
+        <!--Radio Buttons-->
+        <RadioButton x:Name="rbtnStandaard" IsChecked="True" GroupName="PackageType" Content="Standaard" HorizontalAlignment="Left" Margin="101,198,0,0" VerticalAlignment="Top" Width="75" Checked="Rbtn_Checked"/>
+        <RadioButton x:Name="rbtnMini" GroupName="PackageType" Content="Mini" HorizontalAlignment="Left" Margin="32,198,0,0" VerticalAlignment="Top" Checked="Rbtn_Checked"/>
+        <RadioButton x:Name="rbtnMaxi" GroupName="PackageType" Content="Maxi" HorizontalAlignment="Left" Margin="205,198,0,0" VerticalAlignment="Top" Checked="Rbtn_Checked"/>
+        
+        <!--Information Section-->
+        <TextBlock x:Name="txtInfo" HorizontalAlignment="Left" Margin="559,102,0,0" TextWrapping="Wrap" Text="Er is geen pakket onderweg." VerticalAlignment="Top" Width="175" FontWeight="Bold" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,205,0,0" TextWrapping="Wrap" Text="Totale reistijd" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14"/>
         <TextBlock x:Name="txtTotalTraveltime" HorizontalAlignment="Left" Height="23" Margin="679,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,247,0,0" TextWrapping="Wrap" Text="Pakket type" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14"/>
         <TextBlock x:Name="txtPackageType" HorizontalAlignment="Left" Height="23" Margin="679,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
-        <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,287,0,0" TextWrapping="Wrap" Text="Prior?" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14"><Run Text="Prior"/><Run Text="iteit"/><Run Text="?"/></TextBlock>
         <TextBlock x:Name="txtPriorOrNot" HorizontalAlignment="Left" Height="23" Margin="679,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
         <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,324,0,0" TextWrapping="Wrap" Text="Resterend" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14"/>
         <TextBlock x:Name="txtRestingTime" HorizontalAlignment="Left" Height="23" Margin="679,324,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
-        <ProgressBar HorizontalAlignment="Left" Height="24" Margin="559,150,0,0" VerticalAlignment="Top" Width="175"/>
-        <xctk:ULongUpDown Value="30" Maximum="90" Minimum="30" AllowTextInput="False" x:Name="nNumberTraveltime" HorizontalAlignment="Left" Margin="101,98,0,0" VerticalAlignment="Top" Width="163" Height="23"/>
-        <ListBox x:Name="lstDeliveries" HorizontalAlignment="Left" Height="290" Margin="284,98,0,0" VerticalAlignment="Top" Width="256"/>
-        <Button x:Name="btnSend" Content="Versturen" HorizontalAlignment="Left" Margin="101,250,0,0" VerticalAlignment="Top" Width="75" Click="BtnSend_Click"/>
-        <RadioButton x:Name="rbtnMini" Content="Mini" HorizontalAlignment="Left" Margin="32,198,0,0" VerticalAlignment="Top"/>
-        <RadioButton x:Name="rbtnStandaard" Content="Standaard" HorizontalAlignment="Left" Margin="101,198,0,0" VerticalAlignment="Top" Width="75"/>
-        <RadioButton x:Name="rbtnMaxi" Content="Maxi" HorizontalAlignment="Left" Margin="205,198,0,0" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,365,0,0" TextWrapping="Wrap" Text="Total in queue" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14" />
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="559,365,0,0" TextWrapping="Wrap" Text="Huidige ID" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="14" />
         <TextBlock x:Name="txtDeliveryId" HorizontalAlignment="Left" Height="23" Margin="679,365,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" FontFamily="Arial" FontSize="14"  FontWeight="Bold"/>
+        <ProgressBar  x:Name="progressBar" HorizontalAlignment="Left" Height="24" Margin="559,150,0,0" VerticalAlignment="Top" Width="175"/>
+        
+        <!--Delivery List-->
+        <ListBox x:Name="lstDeliveries" HorizontalAlignment="Left" Height="290" Margin="284,98,0,0" VerticalAlignment="Top" Width="256"/>
+
     </Grid>
 </Window>

@@ -1,44 +1,61 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Diagnostics;
+using System.Linq;
 
 namespace HoWestPost.Domain
 {
-    public class DeliveryService : IDeliveryService
+    public static class DeliveryService
     {
-        public HashSet<Delivery> StandardDeliverySet { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public HashSet<Delivery> PrioritizedDeliverySet { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        #region Fields
+        private static int nextIndex = 1;
 
-        public Delivery AddDelivery(Delivery delivery)
+        private static List<Delivery> _deliveries = new List<Delivery>();
+        public static List<Delivery> Deliveries
         {
-            throw new NotImplementedException();
+            get => _deliveries;
+            set => _deliveries = value;
+        }
+        #endregion
+
+        #region Public Methods
+        public static void AddDelivery(Delivery delivery)
+        {
+            delivery.Id = nextIndex++;
+
+            _deliveries.Add(delivery);
+
+            _deliveries.Sort();
+
+            DeliveryProcessor.Start(ref _deliveries);
         }
 
-        //TO DO
-        //make it possible to remove deliveries
-        public void DeleteDelivery(Delivery delivery)
+        /// <summary>
+        /// Upgrades standard deliveries if in state of starvation
+        /// </summary>
+        /// <param name="elapsedTime">Current Elapsed time</param>
+        public static void EvaluatePriorities(TimeSpan elapsedTime)
         {
-            throw new NotImplementedException();
+            foreach (Delivery delivery in _deliveries)
+            {
+                if (delivery.IsWaitingTooLong(elapsedTime))
+                {
+                    delivery.Priority = true;
+                }
+            }
         }
 
-        public List<Delivery> GetAllNormal()
+        public static Delivery GetById(int id)
         {
-            throw new NotImplementedException();
+            foreach (Delivery delivery in Deliveries)
+            {
+                if (delivery.Id == id)
+                {
+                    return delivery;
+                }
+            }
+            return null;
         }
-
-        public List<Delivery> GetAllPrioritized()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Delivery GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        void IDeliveryService.AddDelivery(Delivery delivery)
-        {
-            throw new NotImplementedException();
-        }
+        #endregion
     }
 }
